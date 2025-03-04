@@ -31,6 +31,7 @@ Currently learning Mechanical,Electrical Engineering and Machine Learning. <br>
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+![AI & Machine Learning](https://img.shields.io/badge/AI%20&%20Machine%20Learning-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 <br>
 
