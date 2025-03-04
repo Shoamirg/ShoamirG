@@ -44,11 +44,10 @@ Currently learning Mechanical,Electrical Engineering and Machine Learning. <br>
 <br>
 
 <div class="display: flex;">
- <a href="https://github.com/abbibr/github-readme-stats"><img alt="Ibrohim Abbosov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbibr&langs_count=8&count_private=true&layout=compact&theme=dracula" /></a>
-  
+ <a href="https://github.com/g/github-readme-stats"><img alt="Shoamir Shorustamov's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shoamirg&langs_count=8&count_private=true&layout=compact&theme=dracula" /></a>
  <img src="https://github.com/theMir8/theMir8/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br>
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abbibr&show_icons=true&theme=gotham" alt="abbibr" /> --!
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shoamir&show_icons=true&theme=gotham" alt="shoamir" /> --!
