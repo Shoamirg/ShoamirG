@@ -1,23 +1,22 @@
 <!--  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="with: 30px;"> -->
 ## Hi there!
 
-I am  Ibrohim Abbosov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
-Backend Developer & IoT Engineer & Data Analyst. <br>
+I am  Shoamir Shorustamov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
+Backend Developer,IoT Engineer,Data Analystand AI Engineer. <br>
 Coordinated 5+big projects (systems) in Light Solution company and worked there. <br>
 Participant and Winner in several big hackathons and startups. <br>
-Currently learning Mechanical and Electrical Engineering. <br>
-<b>My Email Adress:</b> abbosovibrohim183@gmail.com</br>
+Currently learning Mechanical,Electrical Engineering and Machine Learning. <br>
+<b>My Email Adress:</b> shoamirshorustamov@gmail.com</br>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Laravel & VueJS/ReactJS
-- :triangular_flag_on_post: I teach code on YouTube
+- :computer: I'm currently working on Django & Python & C/C++
 - :zap: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">👇 Contact Me:</h2>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://t.me/abbibr)](https://www.instagram.com/abbibr_ibrohim)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/abbibr)](https://t.me/abbibr)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://t.me/shoamirg)](https://www.instagram.com/shoamirg)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShoamirG)](https://t.me/ShoamirG)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
