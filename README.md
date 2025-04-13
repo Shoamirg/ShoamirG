@@ -18,7 +18,7 @@ Currently learning Mechanical Engineering, Electrical Engineering, and Machine L
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://t.me/shoamirg)](https://www.instagram.com/shoamirg)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShoamirG)](https://t.me/ShoamirG)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shoamirshorustamov)](https://www.linkedin.com/in/shoamirshorustamov)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shoamirshorustamov)](https://www.linkedin.com/in/shoamir-s-4763b0299/))
 
 
 ## ⚡ Technologies
