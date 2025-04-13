@@ -1,12 +1,11 @@
-<!--  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" style="with: 30px;"> -->
-## Hi there!
+I am Shoamir Shorustamov.<br>
+Graduate of the Muhammad al-Khwarizmi Specialized IT School and currently studying at Amity University.<br>
+Backend Developer, IoT Engineer, Data Analyst, and AI Engineer.<br>
+Coordinated 5+ large-scale system projects at Light Solution Company and worked there as a core team member.<br>
+Participant and winner of several major hackathons and startup competitions.<br>
+Currently learning Mechanical Engineering, Electrical Engineering, and Machine Learning.<br>
+<b>My Email Address:</b> shoamirshorustamov@gmail.com<br>
 
-I am  Shoamir Shorustamov. Graduated Muhammad al-Khwarizmi specialized IT school. Currently studying at Amity University. <br>
-Backend Developer,IoT Engineer,Data Analystand AI Engineer. <br>
-Coordinated 5+big projects (systems) in Light Solution company and worked there. <br>
-Participant and Winner in several big hackathons and startups. <br>
-Currently learning Mechanical,Electrical Engineering and Machine Learning. <br>
-<b>My Email Adress:</b> shoamirshorustamov@gmail.com</br>
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
