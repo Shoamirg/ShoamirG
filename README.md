@@ -1,10 +1,11 @@
 I am Shoamir Shorustamov.<br>
-Graduate of the Muhammad al-Khwarizmi Specialized IT School and currently studying at Amity University.<br>
+Graduate of the Muhammad al-Khwarizmi Specialized IT School and currently enrolled in the Foundation Course in Computer Engineering at Amity University.<br>
 Backend Developer, IoT Engineer, Data Analyst, and AI Engineer.<br>
 Coordinated 5+ large-scale system projects at Light Solution Company and worked there as a core team member.<br>
 Participant and winner of several major hackathons and startup competitions.<br>
 Currently learning Mechanical Engineering, Electrical Engineering, and Machine Learning.<br>
 <b>My Email Address:</b> shoamirshorustamov@gmail.com<br>
+
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -17,6 +18,7 @@ Currently learning Mechanical Engineering, Electrical Engineering, and Machine L
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://t.me/shoamirg)](https://www.instagram.com/shoamirg)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/ShoamirG)](https://t.me/ShoamirG)
 ![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shoamirshorustamov)](https://www.linkedin.com/in/shoamirshorustamov)
 
 
 ## ⚡ Technologies
