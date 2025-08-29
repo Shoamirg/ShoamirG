@@ -1,5 +1,5 @@
 I am Shoamir Shorustamov.<br>
-Graduate of the Muhammad al-Khwarizmi Specialized IT School and currently enrolled in the Foundation Course in Computer Engineering at Amity University.<br>
+Graduate of the Muhammad al-Khwarizmi Specialized IT School and currently enrolled as the  Computer Engineering  student at Amity University.<br>
 Backend Developer, IoT Engineer, Data Analyst, and AI Engineer.<br>
 Coordinated 5+ large-scale system projects at Light Solution Company and worked there as a core team member.<br>
 Participant and winner of several major hackathons and startup competitions.<br>
