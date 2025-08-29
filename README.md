@@ -10,7 +10,7 @@ Currently learning Mechanical Engineering, Electrical Engineering, and Machine L
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on Django & Python & C/C++
+- :computer: I'm currently working on Unity C# & Python & C/C++
 - :zap: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <h2 align="left">👇 Contact Me:</h2>
